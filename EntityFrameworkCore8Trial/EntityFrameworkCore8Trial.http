@@ -1,0 +1,6 @@
+@EntityFrameworkCore8Trial_HostAddress = http://localhost:5209
+
+GET {{EntityFrameworkCore8Trial_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
